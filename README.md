@@ -1,6 +1,12 @@
 # ZZScanQRcode
 用swift写的一个二维码扫描程序
 
+![image](https://github.com/ZZtimegoesby/ZZScanQRcode/blob/master/scanQR.gif)</br>
+扫描二维码gif图</br>
+</br>
+![image](https://github.com/ZZtimegoesby/ZZScanQRcode/blob/master/imageQRScan.gif)</br>
+识别相册二维码gif图/<br>
+
 *   运用苹果原生扫描秒二维码</br>
 *   搭建UI，设置有效扫描区域，添加扫描动画</br>
 *   实现手机摄像头扫描二维码</br>
